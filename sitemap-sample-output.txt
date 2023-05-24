@@ -1,0 +1,1341 @@
+(.venv) kyrark@Kyras-MacBook-Pro slack-ecomm-app % python3 scraper.py 
+start of scraper
+Successfully requested https://www.bedbathandbeyond.com/sitemap
+https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.bedbathandbeyond.com
+https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.bedbathandbeyond.com
+https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.buybuybaby.com
+/
+/store/account/Login
+/store/account/Login
+/store/account/Registration
+/store/account/TrackOrder
+/store/couponWallet/walletRegistration
+/store/account/shoppingList
+/store/ideaboard/landingPage
+/store/knowledgecenter/home
+/store/cart
+https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.bedbathandbeyond.com
+https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.buybuybaby.com
+/store/account/TrackOrder
+/store/selfservice/FindStore
+/store/ideaboard/landingPage
+/store/knowledgecenter/home
+/
+/sitemap#sitemap-categories
+/sitemap#sitemap-categories
+/sitemap#sitemap-registry
+/sitemap#sitemap-knowledgecenter
+/store/category/furniture/mattresses-foundations/air-mattresses-portable-beds/14165
+/store/category/bedding/blankets-throws/bed-blankets/15554
+/store/category/bedding/comforter-sets/bed-in-a-bag/15505
+/store/category/bedding/pillows/bed-pillows/16066
+/store/category/bedding/bedding-accessories/bed-skirts/12020
+https://www.bedbathandbeyond.com/store/category/bedding/10001
+/store/category/bedding/bedding-accessories/10505
+/store/category/bedding/bedding-collections/16434
+/store/category/bedding/blankets-throws/15553
+/store/category/bedding/bedding-accessories/canopies/12021
+/store/category/bedding/comforter-sets/15502
+/store/category/bedding/down-down-alternative-comforters/16073
+/store/category/bedding/duvet-covers/15507
+/store/category/bedding/blankets-throws/electric-blankets-throws/15556
+/store/category/bedding/sheets/fitted-sheets/15402
+/store/category/bedding/sheets-pillowcases/flannel-sheets/15404
+/store/category/bedding/sheets/flat-sheets/15489
+/store/category/bedding/kids-bedding/15097
+/store/category/bedding/mattress-pads-toppers/mattress-pads/16070
+/store/category/bedding/protectors/mattress-protectors/16075
+/store/category/bedding/mattress-pads-toppers/mattress-toppers/16071
+/store/category/bedding/protective-covers/pillow-protectors/16076
+/store/category/bedding/sheets-pillowcases/pillowcases/15410
+/store/category/bedding/pillows/16064
+/store/category/bedding/quilts/15511
+/store/category/bedding/bedding-accessories/shams/12023
+/store/category/bedding/sheets/sheet-sets/15415
+/store/category/bedding/sheets-pillowcases/15401
+/store/category/bedding/10001
+/store/category/bedding/pillows/support-pillows/16068
+/store/category/home-decor/decorative-accessories/throw-blankets/12161
+/store/category/home-decor/decorative-accessories/throw-pillows/12162
+/store/category/bedding/blankets-throws/weighted-blankets-accessories/15732
+/store/category/bath/bathroom-accessories/13437
+/store/category/bath/bath-furniture/13452
+/store/category/bath/bathroom-hardware/13456
+/store/category/bath/bath-towels-rugs/13433
+/store/category/bath/bathroom-mirrors-lighting/14124
+/store/category/bath/bath-towels-rugs/bathrobes-slippers/15027
+/store/category/bath/bath-towels-rugs/bath-rug-sets/16758
+/store/category/bath/bath-towels-rugs/bath-rugs/13435
+/store/category/storage-cleaning/storage-ideas/bath-storage-ideas/16762?icid=L3_bath_flyout_bath_storage_ideas
+/store/category/bath/bath-towels-rugs/bath-towel-sets/15913
+/store/category/bath/bath-towels-rugs/bath-towels/13434
+/store/category/bath/bathroom-accessories/bathroom-accessory-sets/13438
+/store/category/bath/bath-furniture/bathroom-seating/14856
+/store/category/bath/bath-furniture/bathroom-shelving/13454
+/store/category/bath/bathroom-storage/13446
+/store/category/bath/bathroom-mirrors-lighting/bathroom-wall-mirrors/14126
+/store/category/bath/bathroom-hardware/cabinet-knobs-pulls/13461
+/store/category/bath/bathroom-storage/cabinet-organization/15307
+/store/category/bath/bathroom-mirrors-lighting/ceiling-lighting/15314
+/store/category/bath/bathroom-storage/countertop-organization/15305
+/store/category/bath/bathroom-storage/floor-cabinets/15308
+/store/category/bath/bathroom-accessories/guest-towels/13443
+/store/category/bath/bathroom-mirrors-lighting/makeup-mirrors/14125
+/store/category/bath/bath-furniture/makeup-vanity/13455
+/store/category/bath/bathroom-mirrors-lighting/medicine-cabinets/14127
+/store/category/bath/bath-furniture/over-the-toilet-storage/15918
+/store/category/bath/bathroom-hardware/robe-towel-hooks/15031
+/store/category/bath/bathroom-accessories/scales/13444
+/store/category/bath/13432
+/store/category/bath/shower/13474
+/store/category/bath/shower/shower-bath-caddies/14128
+/store/category/bath/shower/shower-tub-mats/13479
+/store/category/bath/shower/shower-curtains/13475
+/store/category/bath/shower/shower-heads/13481
+/store/category/bath/shower/shower-hooks-rods/13477
+/store/category/bath/shower/shower-curtain-liners/13478
+/store/category/bath/bathroom-accessories/soap-lotion-dispensers/13442
+/store/category/bath/bathroom-accessories/toilet-seats-accessories/16134/_toilet-paper-holder/c19mX2JpblByb2R1Y3RfVHlwZToiVG9pbGV0IFBhcGVyIEhvbGRlciI=
+/store/category/bath/bathroom-accessories/toilet-seats-accessories/16134
+/store/category/bath/bathroom-accessories/toothbrush-holders/15028
+/store/category/bath/bathroom-hardware/towel-bars/15029
+/store/category/bath/bathroom-storage/towel-racks/13451
+/store/category/bath/bathroom-fixtures/towel-rings/15030
+/store/category/bath/bathroom-hardware/towel-warmers/15315
+/store/category/bath/bathroom-mirrors-lighting/vanity-lighting/15313
+/store/category/bath/bathroom-storage/wall-cabinets/15309
+/store/category/bath/bathroom-accessories/wastebaskets/15037
+/store/category/kitchen/featured-shops/trending-now/16085?icid=flyout_us_trending
+/store/category/kitchen/small-appliances/air-fryers-deep-fryers/13631
+/store/category/kitchen/bakeware-baking-tools/10514
+/store/category/kitchen/bakeware-baking-tools/bakeware-sets/12044
+/store/category/kitchen/bakeware-baking-tools/baking-cookie-sheets/12046
+/store/category/kitchen/bakeware-baking-tools/baking-dishes/12597
+/store/category/kitchen/small-appliances/blenders/13138
+/store/category/kitchen/kitchen-organization/cabinet-organizers/12100
+/store/category/kitchen/food-storage/canisters/12605
+/store/category/kitchen/food-storage/canning/13158
+/store/category/kitchen/coffee-tea/coffee/12052
+/store/category/kitchen/coffee-tea/single-serve-coffee-makers/10515
+/store/category/kitchen/coffee-tea/coffee-makers/12053
+/store/category/kitchen/featured-shops/colorful-kitchen/16643?icid=flyout_us_colorful_kitchen
+/store/category/kitchen/kitchen-tools-gadgets/cooking-utensils/12107
+/store/category/kitchen/cookware/10518
+/store/category/kitchen/cookware/cookware-sets/12063
+/store/category/kitchen/kitchen-organization/counter-organizers/12096
+/store/category/kitchen/knives-cutlery/10519?icid=US_L2_kitchen_flyout_Cutlery_Knives
+/store/category/kitchen/knives-cutlery/cutting-boards/12070?icid=US_L3_kitchen_flyout_Cutting_Boards
+/store/category/kitchen/kitchen-organization/drawer-organizers/14178
+/store/category/kitchen/cookware/dutch-ovens-braisers/12594
+/store/category/kitchen/coffee-tea/espresso-machines/12054
+/store/category/kitchen/featured-shops/13120?icid=flyout_kitchen_col_4_4
+/store/category/more/food-drink/12749
+/store/category/kitchen/small-appliances/food-processors/12076
+/store/category/kitchen/food-storage/10602
+/store/category/kitchen/food-storage/food-storage-containers/12606
+/store/category/kitchen/kitchen-tools-gadgets/fruit-vegetable-tools/14609
+/store/category/kitchen/cookware/frying-pans-skillets/12590
+/store/category/kitchen/small-appliances/ice-cream-makers/13633?icid=L3_kitchen_flyout_ice_cream_makers
+/store/category/kitchen/small-appliances/juicers/12075?icid=glb_global_fly_L3_link_kitchenjuicers
+/store/category/kitchen/kitchen-tools-gadgets/10617
+/store/category/kitchen/kitchen-ns/10522
+/store/category/kitchen/kitchen-organization/10524
+/store/category/storage-cleaning/storage-ideas/kitchen-storage-ideas/16761?icid=US_Flyout_Kitchen_3
+/store/category/kitchen/knives-cutlery/knife-sets/12069?icid=US_L3_kitchen_flyout_Knife_Sets
+/store/category/kitchen/kitchen-tools-gadgets/measuring-tools/12105
+/store/category/kitchen/small-appliances/mixers-attachments/12078
+/store/category/kitchen/kitchen-tools-gadgets/mixing-bowls/12103
+/store/category/kitchen/small-appliances/panini-presses-indoor-grills/14303
+/store/category/kitchen/kitchen-organization/pantry-organization/16529
+/store/category/kitchen/cookware/pressure-cookers/14717
+/store/category/kitchen/cookware/roasters/12595
+/store/category/kitchen/cookware/saucepans-sauciers/12592
+/store/category/kitchen/10002
+/store/category/kitchen/coffee-tea/single-serve-coffee-makers/12855
+/store/category/kitchen/sink-organization/14565?icid=US_Flyout_Kitchen_sink_organization
+/store/category/kitchen/small-appliances/slow-cookers-multi-cookers/12715
+/store/category/kitchen/small-appliances/10517
+/store/category/kitchen/kitchen-tools-gadgets/specialized-kitchen-tools/12084
+/store/category/kitchen/knives-cutlery/steak-knives/12758?icid=US_L3_kitchen_flyout_Steak_Knives
+/store/category/kitchen/small-appliances/toasters-ovens/12061
+/store/category/kitchen/trash-recycling/14367
+/store/category/kitchen/water-filters/10530
+/store/category/dining/serveware/appetizer-servers/12618
+/store/category/dining/wine-bar-essentials/bar-tools-accessories/15470
+/store/category/dining/glasses-drinkware/beer-glasses/15468
+/store/category/dining/dinnerware/bowls/14744
+/store/category/dining/serveware/cake-dessert-servers/12135
+/store/category/dining/table-ns/chair-pads-and-covers/12137
+/store/category/dining/glasses-drinkware/champagne-glasses-flutes/15467
+/store/category/dining/dinnerware/charger-plates/13014
+/store/category/dining/serveware/cheese-boards-cheese-knives/15575
+/store/category/dining/glasses-drinkware/cocktail-glasses/15469
+/store/category/dining/glasses-drinkware/coffee-mugs/12766
+/store/category/dining/wine-bar-essentials/decanters-carafes/12934
+/store/category/dining/dinnerware/10532
+/store/category/dining/dinnerware/dinnerware-sets/13027
+/store/category/dining/glasses-drinkware/drinking-glasses/12125
+/store/category/dining/glasses-drinkware/10533
+/store/category/dining/flatware/10534
+/store/category/dining/flatware/flatware-chests-storage/12127
+/store/category/dining/flatware/flatware-sets/12128
+/store/category/dining/wine-bar-essentials/ice-buckets-chillers/15472
+/store/category/dining/glasses-drinkware/insulated-drinkware/12763
+/store/category/dining/table-linens/napkin-rings/12139
+/store/category/dining/table-linens/napkins/14638
+/store/category/dining/flatware/open-stock-flatware/12617
+/store/category/outdoor/outdoor-dining-entertaining/outdoor-dinnerware-serveware/12680
+/store/category/outdoor/outdoor-dining-entertaining/outdoor-drinkware/16225
+/store/category/outdoor/outdoor-dining-entertaining/outdoor-table-linens/12681?icid=flyout_dining_sale_outdoor_table_linens
+/store/category/home-decor/holiday-decor/party-supplies/15333
+/store/category/dining/glasses-drinkware/pitchers/14237
+/store/category/dining/flatware/place-settings/12129
+/store/category/dining/table-linens/placemats/12140
+/store/category/dining/dinnerware/plates/13026
+/store/category/dining/serveware/platters-trays/12134
+/store/category/dining/serveware/salad-bowls-servers/12133
+/store/category/dining/serveware/10535
+/store/category/dining/serveware/serving-accessories/12619
+/store/category/dining/serveware/serving-bowls-baskets/12132
+/store/category/dining/flatware/serving-sets/12616
+/store/category/dining/serveware/serving-utensils/13013
+/store/category/dining/10003
+/store/category/dining/featured-shops/spring-entertaining/16594?icid=flyout_dining_sale_spring_entertaining
+/store/category/dining/table-linens/10536
+/store/category/dining/table-linens/table-runners/12141
+/store/category/dining/table-linens/tablecloths/12142
+/store/category/dining/wine-bar-essentials/12929
+/store/category/dining/glasses-drinkware/wine-glasses/12126
+/store/category/dining/wine-bar-essentials/wine-tools-accessories/15471
+/store/category/storage-cleaning/bath-organization/16169
+/store/category/storage-cleaning/cleaning/brooms-mops-dusters/12204
+/store/category/storage-cleaning/cleaning/brushes-sponges-cloths/12205
+/store/category/kitchen/kitchen-organization/cabinet-organizers/12100
+/store/category/storage-cleaning/vacuums-floor-care/canister-vacuums/12239
+/store/category/storage-cleaning/cleaning/10554
+/store/category/storage-cleaning/closet-storage/10619
+/store/category/storage-cleaning/closet-storage/clothing-storage/12209
+/store/category/kitchen/kitchen-organization/counter-organizers/12096
+/store/category/dining/dinnerware/dining-storage-stands/13030
+/store/category/storage-cleaning/cleaning/dish-handsoap/14550
+/store/category/kitchen/kitchen-organization/drawer-organizers/14178
+/store/category/storage-cleaning/storage-organization/drawers-carts/12642
+/store/category/storage-cleaning/laundry/drying-racks/12221
+/store/category/storage-cleaning/office-organization/filing-cabinets/15501
+/store/category/kitchen/food-storage/10602
+/store/category/storage-cleaning/garage-storage/10608
+/store/category/storage-cleaning/laundry/garment-steamers/14168
+/store/category/storage-cleaning/laundry/hampers-sorters/12647
+/store/category/storage-cleaning/vacuums-floor-care/handheld-vacuums/12760
+/store/category/storage-cleaning/closet-storage/hangers/12210
+/store/category/storage-cleaning/closet-storage/hooks/14170
+/store/category/storage-cleaning/laundry/irons/12223
+/store/category/storage-cleaning/jewelry-boxes-storage/10557
+/store/category/storage-cleaning/cleaning/kitchen-cleaners/14552
+/store/category/kitchen/kitchen-organization/10524
+/store/category/storage-cleaning/laundry/10559
+/store/category/storage-cleaning/cleaning/odor-eliminators/14548
+/store/category/storage-cleaning/office-organization/office-school-supplies/14345
+/store/category/storage-cleaning/office-organization/office-accessories/12653
+/store/category/storage-cleaning/office-organization/10607
+/store/category/storage-cleaning/storage-organization/over-the-door-organizers/13775
+/store/category/storage-cleaning/vacuums-floor-care/pet-hair-vacuums/16612
+/store/category/storage-cleaning/vacuums-floor-care/robotic-vacuums/12240
+/store/category/storage-cleaning/storage-organization/shelving/14246
+/store/category/storage-cleaning/closet-storage/shoe-racks-storage/12213
+/store/category/storage-cleaning/10005
+/store/category/kitchen/sink-organization/14565
+/store/category/storage-cleaning/vacuums-floor-care/stick-vacuums/12243
+/store/category/storage-cleaning/storage-organization/storage-bags/12644
+/store/category/storage-cleaning/storage-organization/storage-bins-baskets/12208
+/store/category/storage-cleaning/storage-organization/10555
+/store/category/storage-cleaning/storage-organization/storage-units/12212
+/store/category/kitchen/trash-recycling/14367
+/store/category/kitchen/trash-recycling/trash-bags-liners/14371
+/store/category/kitchen/trash-recycling/trash-cans/14368
+/store/category/storage-cleaning/storage-organization/underbed-storage/14308
+/store/category/storage-cleaning/vacuums-floor-care/upright-vacuums/12244
+/store/category/storage-cleaning/vacuums-floor-care/10562
+/store/category/home-decor/decorative-accessories/led-decor/12777
+/store/category/home-decor/rugs-door-mats/area-rugs/12193
+/store/category/health-beauty/health-wellness/aromatherapy/14380
+/store/category/home-decor/artificial-flowers-plants/16621
+/store/category/home-decor/throw-pillows-blankets/backrest-pillows/16632
+/store/category/bath/bathroom-mirrors-lighting/bathroom-wall-mirrors/14126
+/store/category/home-decor/candles-fragrance/candle-holders/12146
+/store/category/home-decor/candles-fragrance/candles/12147
+/store/category/home-decor/candles-fragrance/10540
+/store/category/home-decor/lighting/ceiling-fans/12187
+/store/category/home-decor/clocks/10541
+/store/category/home-decor/frames-albums/collage-gallery-frames/12172
+/store/category/home-decor/decorative-accessories/10543
+/store/category/home-decor/decorative-accessories/decorative-baskets-boxes/16620
+/store/category/home-decor/wall-decor/decorative-shelving/12194
+/store/category/home-decor/artificial-flowers-plants/decorative-trees/16624
+/store/category/home-decor/rugs-door-mats/door-mats/12191
+/store/category/home-decor/candles-fragrance/flameless-candles/12628
+/store/category/home-decor/lighting/floor-lamps/16008
+/store/category/home-decor/mirrors/floor-mirrors/13782
+/store/category/home-decor/artificial-flowers-plants/floral-arrangements-centerpieces/16623
+/store/category/home-decor/frames-albums/10545
+/store/category/home-decor/candles-fragrance/home-fragrance/14342
+/store/category/home-decor/rugs-door-mats/kitchen-rugs-mats/15392
+/store/category/home-decor/lighting/10548
+/store/category/home-decor/wall-decor/metal-wall-decor/14273
+/store/category/home-decor/mirrors/13779
+/store/category/home-decor/lighting/novelty-lighting/12641
+/store/category/home-decor/mirrors/over-the-door-mirrors/13781
+/store/category/home-decor/lighting/reading-desk-lamps/14211
+/store/category/home-decor/rugs-door-mats/rug-pads-accessories/12639
+/store/static/rugs
+/store/category/home-decor/10004
+/store/category/home-decor/lighting/table-lamps/12189
+/store/category/home-decor/frames-albums/tabletop-frames/14533
+/store/category/home-decor/throw-pillows-blankets/throw-blankets/16630
+/store/category/home-decor/throw-pillows-blankets/throw-pillows/16629
+/store/category/home-decor/throw-pillows-blankets/16628
+/store/category/home-decor/rugs-door-mats/throw-rugs/12638
+/store/category/home-decor/decorative-accessories/vases-planters-jars/16617
+/store/category/home-decor/wall-art/14285
+/store/category/home-decor/wall-decor/10550
+/store/category/home-decor/frames-albums/wall-frames/13163
+/store/category/home-decor/mirrors/wall-mirrors/13780
+/store/category/home-decor/wall-decor/wreaths/16488
+/store/category/curtains-window/curtain-panels/blackout-curtains/16230
+/store/category/curtains-window/curtain-panels/16229
+/store/category/curtains-window/curtain-rods-hardware/curtain-rings/15601
+/store/category/curtains-window/curtain-rods-hardware/curtain-rods/15596
+/store/category/curtains-window/curtain-rods-hardware/15595
+/store/category/curtains-window/curtain-rods-hardware/finials/15602
+/store/category/curtains-window/curtain-rods-hardware/hardware-accessories/16234
+/store/category/curtains-window/curtain-panels/light-filtering-curtains/16231
+/store/category/curtains-window/curtain-panels/room-darkening-curtains/16232
+/store/category/curtains-window/curtain-panels/sheer-curtains/16233
+/store/category/curtains-window/15588
+/store/category/curtains-window/curtain-rods-hardware/tie-backs-holdbacks/15600
+/store/category/curtains-window/curtain-panels/valances-scarves/16328
+/store/category/curtains-window/blinds-shades/blinds/15590
+/store/category/curtains-window/blinds-shades/shades/15591
+/store/category/furniture/living-room-furniture/accent-end-tables/13517
+/store/category/furniture/accent-furniture/accent-end-tables/13522
+/store/category/furniture/accent-furniture/accent-chairs/14483
+/store/category/furniture/accent-furniture/13521
+/store/category/furniture/kitchen-dining-furniture/bar-stools-counter-stools/13495
+/store/category/furniture/kitchen-dining-furniture/bars-bar-carts/13496
+/store/category/furniture/bedroom-furniture/13504
+/store/category/furniture/bedroom-furniture/beds/13505
+/store/category/furniture/accent-furniture/bookshelves/13524
+/store/category/furniture/accent-furniture/cabinets-chests/14484
+/store/category/furniture/living-room-furniture/chairs-recliners/13515
+/store/category/furniture/entryway-furniture/coat-racks-umbrella-stands/13532
+/store/category/furniture/living-room-furniture/coffee-tables/13516
+/store/category/furniture/living-room-furniture/console-tables/14479
+/store/category/furniture/entryway-furniture/console-tables/13531
+/store/category/furniture/office-furniture/desks/13534
+/store/category/furniture/kitchen-dining-furniture/dining-chairs-benches/13499
+/store/category/furniture/kitchen-dining-furniture/dining-sets/13500
+/store/category/furniture/kitchen-dining-furniture/dining-tables/13498
+/store/category/furniture/bedroom-furniture/dressers-chests/13506
+/store/category/furniture/entryway-furniture/13529
+/store/category/furniture/living-room-furniture/fireplaces-accessories/13520
+/store/category/furniture/kitchen-dining-furniture/folding-tables-chairs/13501
+/store/category/furniture/office-furniture/gaming-chairs-&-desks/16581
+/store/category/furniture/bedroom-furniture/headboards/14474
+/store/category/furniture/bath-furniture/kids-furniture/15635
+/store/category/furniture/kitchen-dining-furniture/13494
+/store/category/furniture/kitchen-dining-furniture/kitchen-islands-carts/13497
+/store/category/furniture/living-room-furniture/13512
+/store/category/furniture/mattresses-foundations/mattresses/14160
+/store/category/furniture/bedroom-furniture/nightstands/13507
+/store/category/furniture/baby-furniture/14318
+/store/category/furniture/office-furniture/office-chairs/13535
+/store/category/furniture/office-furniture/13533
+/store/category/furniture/living-room-furniture/ottomans-benches/13518
+/store/category/furniture/accent-furniture/ottomans-benches/13523
+/store/category/furniture/13492
+/store/category/furniture/kitchen-dining-furniture/sideboards-buffets/13502
+/store/category/furniture/living-room-furniture/sofas-loveseats/13513
+/store/category/furniture/entryway-furniture/storage-benches-shelving/13530
+/store/category/furniture/living-room-furniture/tv-stands-entertainment-centers/13514
+/store/category/health-beauty/skin-care/acne-care/14518
+/store/category/health-beauty/bath-body/16693
+/store/category/health-beauty/mens-grooming/beard-care/14644
+/store/category/health-beauty/beauty/16654
+/store/category/health-beauty/skin-care/body-wash-soap/13761
+/store/category/health-beauty/ear-eye-care/16706
+/store/category/health-beauty/mens-grooming/electric-groomers-shavers/16675
+/store/category/health-beauty/oral-care/electric-toothbrushes/15005
+/store/category/health-beauty/skin-care/face-cleansers-makeup-removers/13758
+/store/category/health-beauty/skin-care/face-moisturizers-creams/13759
+/store/category/health-beauty/first-aid/16720
+/store/category/health-beauty/fitness-wellness/13565
+/store/category/health-beauty/hair-care/hair-accessories/13751
+/store/category/health-beauty/hair-care/hair-brushes/13750
+/store/category/health-beauty/hair-care/13748
+/store/category/health-beauty/hair-care/hair-color/14515
+/store/category/health-beauty/hair-care/hair-dryers/13749
+/store/category/health-beauty/hair-care/hair-styling-products/14514
+/store/category/health-beauty/hair-care/hair-styling-tools/14171
+/store/category/health-beauty/hair-care/hair-treatments/13753
+/store/category/health-beauty/health-wellness/16709
+/store/category/health-beauty/hair-care/kids-hair-care/16660
+/store/category/health-beauty/skin-care/lip-care/16663
+/store/category/health-beauty/makeup-mirrors-organizers/makeup-brushes-tools/16200
+/store/category/health-beauty/makeup-mirrors-organizers/makeup-mirrors/16198
+/store/category/health-beauty/makeup-mirrors-organizers/16197
+/store/category/health-beauty/makeup-mirrors-organizers/makeup-organizers-storage/16199
+/store/category/health-beauty/massage-spa-sleep/massage/13576
+/store/category/health-beauty/massage-spa-sleep/13575
+/store/category/health-beauty/medicine/16727
+/store/category/health-beauty/mens-grooming/13586
+/store/category/health-beauty/mens-grooming/mens-shaving/13588
+/store/category/health-beauty/oral-care/mouthwash/15010
+/store/category/health-beauty/oral-care/15004
+/store/category/health-beauty/personal-care/13579
+/store/category/health-beauty/skin-care/serums-treatments/16661
+/store/category/health-beauty/hair-care/shampoo-conditioner/13752
+/store/category/health-beauty/shaving-hair-removal/16677
+/store/category/health-beauty/13493
+/store/category/health-beauty/skin-care/13757
+/store/category/health-beauty/massage-spa-sleep/sound-machines/13578
+/store/category/health-beauty/massage-spa-sleep/spa/13577
+/store/category/health-beauty/skin-care/sun-care/13762
+/store/category/health-beauty/oral-care/teeth-whitening/15008
+/store/category/health-beauty/oral-care/toothpaste/15009
+/store/category/health-beauty/mens-grooming/trimmers-clippers/13587
+/store/category/health-beauty/vitamins-supplements/13766
+/store/category/health-beauty/oral-care/water-flossers-floss/15007
+/store/category/outdoor/beach-pool/10591
+/store/category/outdoor/camping/15858
+/store/category/outdoor/patio-furniture/chaise-lounges/13269
+/store/category/outdoor/outdoor-dining-entertaining/coolers-carts/12442
+/store/category/outdoor/outdoor-decor/decorative-landscape-lighting/13274
+/store/category/outdoor/outdoor-decor/door-mats/15564
+/store/category/outdoor/fire-pits-outdoor-heating/15568
+/store/category/outdoor/outdoor-decor/garden-decor/15563
+/store/category/outdoor/patio-umbrellas-shades/gazebos-canopies/12463
+/store/category/outdoor/grills-outdoor-cooking/grill-tools-accessories/12301
+/store/category/outdoor/grills-outdoor-cooking/10573
+/store/category/outdoor/lawn-garden/10577
+/store/category/outdoor/mosquito-pest-control/14234
+/store/category/outdoor/patio-furniture/outdoor-bistro-small-space-furniture/13267
+/store/category/outdoor/grills-outdoor-cooking/outdoor-cookware/12297
+/store/category/outdoor/patio-accessories/outdoor-cushions/12675
+/store/category/outdoor/outdoor-dining-entertaining/10584
+/store/category/outdoor/outdoor-dining-entertaining/outdoor-dinnerware-serveware/12680
+/store/category/outdoor/outdoor-dining-entertaining/outdoor-drinkware/16225
+/store/category/outdoor/outdoor-decor/13273
+/store/category/outdoor/patio-accessories/patio-furniture-covers/12335
+/store/category/more/toys-games/outdoor-games/14693
+/store/category/outdoor/grills-outdoor-cooking/grills-smokers/12299
+/store/category/outdoor/outdoor-decor/outdoor-lighting/14561
+/store/category/outdoor/patio-accessories/outdoor-pillows/15561
+/store/category/outdoor/patio-furniture/outdoor-sofas-loveseats/13270
+/store/category/outdoor/patio-accessories/outdoor-storage/15562
+/store/category/outdoor/outdoor-dining-entertaining/outdoor-table-ns/12681
+/store/category/outdoor/patio-accessories/10611
+/store/category/outdoor/patio-furniture/patio-chairs-benches/13268
+/store/category/outdoor/patio-furniture/patio-conversation-sets/12334
+/store/category/outdoor/patio-furniture/patio-dining-sets/13266
+/store/category/outdoor/patio-furniture/10582
+/store/category/outdoor/patio-furniture/patio-tables/13271
+/store/category/outdoor/patio-umbrellas-shades/patio-umbrella-bases/15842
+/store/category/outdoor/patio-umbrellas-shades/patio-umbrellas/12462
+/store/category/outdoor/patio-umbrellas-shade/10596
+/store/category/outdoor/10018
+/store/category/more/book-shop/16782
+/store/category/more/audio-electronics/10581
+/store/category/more/featured-shops/13410
+/store/category/more/food-drink/12749
+/store/category/smart-home-home-improvement/heating-cooling/14943
+/store/category/more/luggage/10580
+/store/category/pet-supplies/16285
+/store/category/smart-home-home-improvement/safety-security/14907
+/store/category/more/food-drink/seasonal-holiday-foods/14454
+/store/category/more/10007
+/store/category/smart-home-home-improvement/smart-home/14893
+/store/static/teamfanshop
+/store/category/more/toys-games/14688
+/store/category/more/featured-shops/travel-must-haves/16652
+/store/category/gifts/gifts-by-interest/beauty-style-gifts/13862?icid=L1_gifts_caL1_ca3f_im_beautystyle_15471
+/store/category/gifts/gifts-by-interest/coffee-gifts/13858?icid=L1_gifts_caL1_ca3e_im_coffee_15471
+/store/category/gifts/gifts-by-interest/cooking-baking-gifts/13856?icid=L1_gifts_caL1_ca3c_im_cookingbaking_15471
+/store/category/gifts/gifts-by-interest/13853
+/store/category/gifts/gifts-by-recipient/16276
+/store/category/gifts/gifts-by-recipient/gifts-for-her/16277
+/store/category/gifts/gifts-by-recipient/gifts-for-him/16278
+/store/category/gifts/gifts-by-recipient/gifts-for-kids/16279
+/store/category/gifts/gifts-by-recipients/gifts-for-pets/16775
+/store/category/gifts/gifts-by-occasion/graduation-gifts/15054
+/store/category/registry-favorites/16533?icid=us_gifts_registry_fav
+/store/category/gifts/13806
+/store/category/gifts/gifts-by-interest/tech-gifts/13859
+/store/category/gifts/gifts-by-recipient/top-gifts/16280
+/store/category/gifts/gifts-by-interest/vacuum-gifts/16468
+/store/category/more/wedding/10593
+/store/category/gifts/gifts-by-interest/wine-beer-cocktail-gifts/15673
+https://www.buybuybaby.com/store/page/BabyRegistry?icid=US_reg_flyout_loggedout_occassions_baby_registry
+/store/static/GiftCardHomePage?icid=_reg_loggedout_flyout_gc
+/store/gift-registry/gift?icid=_reg_loggedout_flyout_occassions
+/store/gift-registry/housewarming?icid=_reg_loggedout_flyout_occassions_housewarming
+/store/category/personalized-gifts/personalized-wedding-gifts/14019?icid=_reg_loggedout_personalized_gifts
+/store/kickstarters/wedding/200001/all-collections?icid=_reg_loggedout_wedding_col3_collectionstarters
+/store/category/registry-favorites/16533?icid=US_reg_loggedout_registry_favorites
+/store/static/top-registry-brands?icid=_reg_loggedout_flyout_top_registry_brands
+/store/category/more/wedding/10593?icid=_reg_loggedout_wedding_gifts
+/store/page/Registry?icid=_reg_loggedout_flyout_occassions_wedding
+/store/page/Registry?icid=_reg_loggedout_wedding_header
+/store/category/baby-kids/gear-travel/activity/12245
+/store/category/baby-kids/baby-kids-clothing/10567
+/store/category/baby-kids/baby-nursery/baby-bedding/12258
+/store/category/baby-kids/gear-travel/baby-carriers/12247
+/store/category/baby-kids/baby-nursery/baby-furniture/12259
+/store/category/baby-kids/health-safety/baby-gates/12982
+/store/category/baby-kids/baby-nursery/10565
+/store/page/BabyRegistry
+/store/category/baby-kids/baby-gifts/baby-registry-favorites/14113
+/store/category/baby-kids/nursing-feeding/baby-food-prep/12280
+/store/category/baby-kids/bath-diapering/10566
+/store/category/baby-kids/car-seats/booster-car-seats/12973
+/store/category/baby-kids/nursing-feeding/bottle-feeding/12282
+/store/category/baby-kids/car-seats/car-seat-bases/12974
+/store/category/baby-kids/car-seats/12970
+/store/category/baby-kids/health-safety/childproofing/12276
+/store/category/baby-kids/gear-travel/cold-weather-accessories/12246
+/store/category/baby-kids/car-seats/convertible-car-seats/12972
+/store/category/baby-kids/gear-travel/diaper-bags/12248
+/store/category/baby-kids/bath-diapering/diapering/12263
+/store/category/baby-kids/strollers/double-triple/12967
+/store/category/baby-kids/strollers/full-size-strollers/12964
+/store/category/baby-kids/gear-travel/10563
+/store/category/baby-kids/health-safety/10569
+/store/category/baby-kids/health-safety/health-wellness/12277
+/store/category/baby-kids/nursing-feeding/high-chairs/12283
+/store/category/baby-kids/car-seats/infant-car-seats/12971
+/store/category/baby-kids/infant-toys-ages-0-3-years/10572
+/store/category/baby-kids/strollers/jogging-strollers/12966
+/store/category/bedding/kids-bedding/15097
+/store/category/furniture/bath-furniture/kids-furniture/15635
+/store/category/baby-kids/kids-toys/12984
+/store/category/baby-kids/health-safety/baby-monitors/12983
+/store/category/baby-kids/nursery-decor/12976
+/store/category/baby-kids/nursing-feeding/nursing/12284
+/store/category/baby-kids/nursing-feeding/10570
+/store/category/baby-kids/gear-travel/playards-portable-beds/12739
+/store/category/baby-kids/bath-diapering/potty-training/12264
+/store/category/baby-kids/shoes-accessories/12991
+/store/category/baby-kids/10006
+/store/category/baby-kids/baby-gifts/smart-innovations/14114
+/store/category/baby-kids/strollers/12961
+/store/category/baby-kids/strollers/travel-systems/12965
+/store/category/baby-kids/bath-diapering/tubs-seats/12981
+/store/category/baby-kids/strollers/umbrella-strollers/12963
+/store/category/baby-kids/10006?icid=flyout_categories_babykids
+/store/category/baby-kids/baby-nursery/10565?icid=flyout_categories_babykids_nursery
+/store/category/bath/13432?icid=flyout_categories_bath
+/store/category/bath/bath-towels-rugs/13433?icid=flyout_categories_bath_rug
+/store/category/bath/bathroom-accessories/13437?icid=flyout_categories_bath_accessories
+/store/category/bath/bathroom-hardware/13456?icid=flyout_categories_bath_hardware
+/store/category/bedding/10001?icid=flyout_categories_bedding
+/store/category/bedding/bedding-basics/16392?icid=flyout_categories_bedding_basics
+/store/category/furniture/bedroom-furniture/13504?icid=flyout_categories_furniture_bedroom
+/store/category/home-decor/candles-fragrance/10540?icid=flyout_categories_homedecor_candles
+/store/category/baby-kids/car-seats/12970?icid=flyout_categories_babykids_carseat
+/store/category/storage-cleaning/closet-storage/10619?icid=flyout_categories_storage_closet
+/store/category/kitchen/coffee-tea/single-serve-coffee-makers/10515?icid=flyout_categories_kitchen_coffeetea
+/store/category/bedding/comforter-sets/15502?icid=flyout_categories_bedding_comforterset
+/store/category/kitchen/cookware/10518?icid=flyout_categories_kitchen_cookware
+/store/category/curtains-window/curtain-panels/16229?icid=flyout_categories_curtains_panels
+/store/category/curtains-window/15588?icid=flyout_categories_curtains
+/store/category/dining/10003?icid=flyout_categories_dining
+/store/category/dining/dinnerware/10532?icid=flyout_categories_dining_dinnerware
+/store/category/dining/glasses-drinkware/10533?icid=flyout_categories_dining_drinkware
+/store/category/dining/flatware/10534?icid=flyout_categories_dining_flatware
+/store/category/furniture/13492?icid=flyout_categories_furniture
+/store/category/health-beauty/hair-care/13748?icid=flyout_categories_health_haircare
+/store/category/health-beauty/13493?icid=flyout_categories_health
+/store/category/smart-home-home-improvement/heating-cooling/14943?icid=flyout_categories_heatingandcooling
+/store/category/home-decor/10004?icid=flyout_categories_homedecor
+/store/category/kitchen/10002?icid=flyout_categories_kitchen
+/store/category/furniture/kitchen-dining-furniture/13494?icid=flyout_categories_furniture_kitchen
+/store/category/kitchen/kitchen-tools-gadgets/10617?icid=flyout_categories_kitchen_tools
+/store/category/storage-cleaning/laundry/10559?icid=flyout_categories_storage_laundry
+/store/category/home-decor/lighting/10548?icid=flyout_categories_homedecor_lights
+/store/category/furniture/living-room-furniture/13512?icid=flyout_categories_furniture_livingroom
+/store/category/more/luggage/10580?icid=flyout_categories_luggage
+/store/category/more/10007?icid=flyout_categories_luggagepetmore
+/store/category/health-beauty/massage-spa-sleep/13575?icid=flyout_categories_health_spa
+/store/category/baby-kids/nursing-feeding/10570?icid=flyout_categories_babykids_nursing
+/store/category/furniture/office-furniture/13533?icid=flyout_categories_furniture_office
+/store/category/health-beauty/oral-care/15004?icid=flyout_categories_health_oral
+/store/category/outdoor/10018?icid=flyout_categories_outdoor
+/store/category/outdoor/outdoor-decor/13273?icid=flyout_categories_outdoor_decor
+/store/category/outdoor/patio-accessories/10611?icid=flyout_categories_outdoor_accessories
+/store/category/outdoor/patio-furniture/10582?icid=flyout_categories_outdoor_patiofurniture
+/store/category/outdoor/patio-umbrellas-shade/10596?icid=flyout_categories_outdoor_patioshades
+/store/category/pet-supplies/16285?icid=flyout_categories_pet
+/store/category/bedding/pillows/16064?icid=flyout_categories_bedding_pillows
+/store/category/curtains-window/curtain-rods-hardware/15595?icid=flyout_categories_curtains_rods
+/store/static/rugs?icid=flyout_categories_homedecor_rugs
+/store/category/bedding/sheets-pillowcases/15401?icid=flyout_categories_bedding_pillowcase
+/store/category/bath/shower/13474?icid=flyout_categories_bath_shower
+/store/category/health-beauty/skin-care/13757?icid=flyout_categories_health_skin
+/store/category/kitchen/small-appliances/10517?icid=flyout_categories_kitchen_smallappliance
+/store/category/smart-home-home-improvement/smart-home/14893?icid=flyout_categories_smarthome
+/store/category/storage-cleaning/10005?icid=flyout_categories_storage
+/store/category/storage-cleaning/storage-organization/10555?icid=flyout_categories_storage_solutions
+/store/category/baby-kids/strollers/12961?icid=flyout_categories_babykids_strollers
+/store/category/dining/table-linens/10536?icid=flyout_categories_dining_tablelinen
+/store/category/home-decor/throw-pillows-blankets/16628?icid=flyout_categories_homedecor_throw
+/store/category/storage-cleaning/vacuums-floor-care/10562?icid=flyout_categories_storage_vacuums
+/store/category/curtains-window/blinds-shades/blinds/15590?icid=flyout_categories_curtains_blinds
+/store/category/curtains-window/blinds-shades/shades/15591?icid=flyout_categories_curtains_shades
+https://www.buybuybaby.com/store/page/BabyRegistry?icid=US_reg_flyout_loggedout_occassions_baby_registry
+/store/static/GiftCardHomePage?icid=_reg_loggedout_flyout_gc
+/store/gift-registry/gift?icid=_reg_loggedout_flyout_occassions
+/store/gift-registry/housewarming?icid=_reg_loggedout_flyout_occassions_housewarming
+/store/category/personalized-gifts/personalized-wedding-gifts/14019?icid=_reg_loggedout_personalized_gifts
+/store/kickstarters/wedding/200001/all-collections?icid=_reg_loggedout_wedding_col3_collectionstarters
+/store/category/registry-favorites/16533?icid=US_reg_loggedout_registry_favorites
+/store/static/top-registry-brands?icid=_reg_loggedout_flyout_top_registry_brands
+/store/category/more/wedding/10593?icid=_reg_loggedout_wedding_gifts
+/store/page/Registry?icid=_reg_loggedout_flyout_occassions_wedding
+/store/page/Registry?icid=_reg_loggedout_wedding_header
+https://www.facebook.com/bedbathandbeyond
+https://www.twitter.com/bedbathbeyond
+https://instagram.com/bedbathandbeyond
+https://www.pinterest.com/bedbathbeyond
+https://www.youtube.com/bedbathandbeyond
+https://www.bedbathandbeyond.com/store/knowledgecenter/home
+https://cloud.email.bedbathandbeyond.com/Email_Preferences
+/store/account/TrackOrder
+/store/static/ShippingPolicies
+/store/static/EasyReturns
+/store/static/SafetyAndRecalls
+/store/static/MarketplaceFAQ
+/store/account/TrackOrder
+/store/static/ShippingPolicies
+/store/static/EasyReturns
+/store/static/SafetyAndRecalls
+/store/static/MarketplaceFAQ
+/store/giftregistry/registry-search-guest
+/store/account/my_registries
+/store/giftregistry/registry-search-guest
+/store/account/my_registries
+/store/static/environmentalsocialgovernance
+/store/static/MediaRelations
+https://bedbathandbeyond.gcs-web.com/
+/store/static/PrivacyPolicy
+/store/static/AccountSecurity
+/store/static/TermsOfUse
+/store/selfservice/FindStore
+/store/static/accessibility
+https://careers.bedbath.com/us/en
+/store/static/california-supply-chains-act
+/store/static/environmentalsocialgovernance
+/store/static/MediaRelations
+https://bedbathandbeyond.gcs-web.com/
+/store/static/PrivacyPolicy
+/store/static/AccountSecurity
+/store/static/TermsOfUse
+/store/selfservice/FindStore
+/store/static/accessibility
+https://careers.bedbath.com/us/en
+/store/static/california-supply-chains-act
+https://d.comenity.net/bedbathandbeyond/
+https://d.comenity.net/bedbathandbeyondstorecard/
+https://d.comenity.net/bedbathandbeyond/
+https://d.comenity.net/bedbathandbeyondstorecard/
+https://buybuybaby.com
+
+
+
+All categories: 
+
+uncategorized
+furniture
+bedding
+home-decor
+bath
+storage-cleaning
+kitchen
+more
+dining
+outdoor
+health-beauty
+curtains-window
+smart-home-home-improvement
+pet-supplies
+gifts
+registry-favorites
+personalized-gifts
+baby-kids
+
+
+CATEGORY LINKS: 
+
+Category: uncategorized
+ - https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.bedbathandbeyond.com
+ - https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.bedbathandbeyond.com
+ - https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.buybuybaby.com
+ - /
+ - /store/account/Login
+ - /store/account/Login
+ - /store/account/Registration
+ - /store/account/TrackOrder
+ - /store/couponWallet/walletRegistration
+ - /store/account/shoppingList
+ - /store/ideaboard/landingPage
+ - /store/knowledgecenter/home
+ - /store/cart
+ - https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.bedbathandbeyond.com
+ - https://prod.bedbathus/apis/services/cbcc/redirect/v1.0/cookie-redirect?url=https://www.buybuybaby.com
+ - /store/account/TrackOrder
+ - /store/selfservice/FindStore
+ - /store/ideaboard/landingPage
+ - /store/knowledgecenter/home
+ - /
+ - /sitemap#sitemap-categories
+ - /sitemap#sitemap-categories
+ - /sitemap#sitemap-registry
+ - /sitemap#sitemap-knowledgecenter
+ - /store/static/rugs
+ - /store/static/teamfanshop
+ - https://www.buybuybaby.com/store/page/BabyRegistry?icid=US_reg_flyout_loggedout_occassions_baby_registry
+ - /store/static/GiftCardHomePage?icid=_reg_loggedout_flyout_gc
+ - /store/gift-registry/gift?icid=_reg_loggedout_flyout_occassions
+ - /store/gift-registry/housewarming?icid=_reg_loggedout_flyout_occassions_housewarming
+ - /store/kickstarters/wedding/200001/all-collections?icid=_reg_loggedout_wedding_col3_collectionstarters
+ - /store/static/top-registry-brands?icid=_reg_loggedout_flyout_top_registry_brands
+ - /store/page/Registry?icid=_reg_loggedout_flyout_occassions_wedding
+ - /store/page/Registry?icid=_reg_loggedout_wedding_header
+ - /store/page/BabyRegistry
+ - /store/static/rugs?icid=flyout_categories_homedecor_rugs
+ - https://www.buybuybaby.com/store/page/BabyRegistry?icid=US_reg_flyout_loggedout_occassions_baby_registry
+ - /store/static/GiftCardHomePage?icid=_reg_loggedout_flyout_gc
+ - /store/gift-registry/gift?icid=_reg_loggedout_flyout_occassions
+ - /store/gift-registry/housewarming?icid=_reg_loggedout_flyout_occassions_housewarming
+ - /store/kickstarters/wedding/200001/all-collections?icid=_reg_loggedout_wedding_col3_collectionstarters
+ - /store/static/top-registry-brands?icid=_reg_loggedout_flyout_top_registry_brands
+ - /store/page/Registry?icid=_reg_loggedout_flyout_occassions_wedding
+ - /store/page/Registry?icid=_reg_loggedout_wedding_header
+ - https://www.facebook.com/bedbathandbeyond
+ - https://www.twitter.com/bedbathbeyond
+ - https://instagram.com/bedbathandbeyond
+ - https://www.pinterest.com/bedbathbeyond
+ - https://www.youtube.com/bedbathandbeyond
+ - https://www.bedbathandbeyond.com/store/knowledgecenter/home
+ - https://cloud.email.bedbathandbeyond.com/Email_Preferences
+ - /store/account/TrackOrder
+ - /store/static/ShippingPolicies
+ - /store/static/EasyReturns
+ - /store/static/SafetyAndRecalls
+ - /store/static/MarketplaceFAQ
+ - /store/account/TrackOrder
+ - /store/static/ShippingPolicies
+ - /store/static/EasyReturns
+ - /store/static/SafetyAndRecalls
+ - /store/static/MarketplaceFAQ
+ - /store/giftregistry/registry-search-guest
+ - /store/account/my_registries
+ - /store/giftregistry/registry-search-guest
+ - /store/account/my_registries
+ - /store/static/environmentalsocialgovernance
+ - /store/static/MediaRelations
+ - https://bedbathandbeyond.gcs-web.com/
+ - /store/static/PrivacyPolicy
+ - /store/static/AccountSecurity
+ - /store/static/TermsOfUse
+ - /store/selfservice/FindStore
+ - /store/static/accessibility
+ - https://careers.bedbath.com/us/en
+ - /store/static/california-supply-chains-act
+ - /store/static/environmentalsocialgovernance
+ - /store/static/MediaRelations
+ - https://bedbathandbeyond.gcs-web.com/
+ - /store/static/PrivacyPolicy
+ - /store/static/AccountSecurity
+ - /store/static/TermsOfUse
+ - /store/selfservice/FindStore
+ - /store/static/accessibility
+ - https://careers.bedbath.com/us/en
+ - /store/static/california-supply-chains-act
+ - https://d.comenity.net/bedbathandbeyond/
+ - https://d.comenity.net/bedbathandbeyondstorecard/
+ - https://d.comenity.net/bedbathandbeyond/
+ - https://d.comenity.net/bedbathandbeyondstorecard/
+ - https://buybuybaby.com
+Category: furniture
+ - /store/category/furniture/mattresses-foundations/air-mattresses-portable-beds/14165
+ - /store/category/furniture/living-room-furniture/accent-end-tables/13517
+ - /store/category/furniture/accent-furniture/accent-end-tables/13522
+ - /store/category/furniture/accent-furniture/accent-chairs/14483
+ - /store/category/furniture/accent-furniture/13521
+ - /store/category/furniture/kitchen-dining-furniture/bar-stools-counter-stools/13495
+ - /store/category/furniture/kitchen-dining-furniture/bars-bar-carts/13496
+ - /store/category/furniture/bedroom-furniture/13504
+ - /store/category/furniture/bedroom-furniture/beds/13505
+ - /store/category/furniture/accent-furniture/bookshelves/13524
+ - /store/category/furniture/accent-furniture/cabinets-chests/14484
+ - /store/category/furniture/living-room-furniture/chairs-recliners/13515
+ - /store/category/furniture/entryway-furniture/coat-racks-umbrella-stands/13532
+ - /store/category/furniture/living-room-furniture/coffee-tables/13516
+ - /store/category/furniture/living-room-furniture/console-tables/14479
+ - /store/category/furniture/entryway-furniture/console-tables/13531
+ - /store/category/furniture/office-furniture/desks/13534
+ - /store/category/furniture/kitchen-dining-furniture/dining-chairs-benches/13499
+ - /store/category/furniture/kitchen-dining-furniture/dining-sets/13500
+ - /store/category/furniture/kitchen-dining-furniture/dining-tables/13498
+ - /store/category/furniture/bedroom-furniture/dressers-chests/13506
+ - /store/category/furniture/entryway-furniture/13529
+ - /store/category/furniture/living-room-furniture/fireplaces-accessories/13520
+ - /store/category/furniture/kitchen-dining-furniture/folding-tables-chairs/13501
+ - /store/category/furniture/office-furniture/gaming-chairs-&-desks/16581
+ - /store/category/furniture/bedroom-furniture/headboards/14474
+ - /store/category/furniture/bath-furniture/kids-furniture/15635
+ - /store/category/furniture/kitchen-dining-furniture/13494
+ - /store/category/furniture/kitchen-dining-furniture/kitchen-islands-carts/13497
+ - /store/category/furniture/living-room-furniture/13512
+ - /store/category/furniture/mattresses-foundations/mattresses/14160
+ - /store/category/furniture/bedroom-furniture/nightstands/13507
+ - /store/category/furniture/baby-furniture/14318
+ - /store/category/furniture/office-furniture/office-chairs/13535
+ - /store/category/furniture/office-furniture/13533
+ - /store/category/furniture/living-room-furniture/ottomans-benches/13518
+ - /store/category/furniture/accent-furniture/ottomans-benches/13523
+ - /store/category/furniture/13492
+ - /store/category/furniture/kitchen-dining-furniture/sideboards-buffets/13502
+ - /store/category/furniture/living-room-furniture/sofas-loveseats/13513
+ - /store/category/furniture/entryway-furniture/storage-benches-shelving/13530
+ - /store/category/furniture/living-room-furniture/tv-stands-entertainment-centers/13514
+ - /store/category/furniture/bath-furniture/kids-furniture/15635
+ - /store/category/furniture/bedroom-furniture/13504?icid=flyout_categories_furniture_bedroom
+ - /store/category/furniture/13492?icid=flyout_categories_furniture
+ - /store/category/furniture/kitchen-dining-furniture/13494?icid=flyout_categories_furniture_kitchen
+ - /store/category/furniture/living-room-furniture/13512?icid=flyout_categories_furniture_livingroom
+ - /store/category/furniture/office-furniture/13533?icid=flyout_categories_furniture_office
+Category: bedding
+ - /store/category/bedding/blankets-throws/bed-blankets/15554
+ - /store/category/bedding/comforter-sets/bed-in-a-bag/15505
+ - /store/category/bedding/pillows/bed-pillows/16066
+ - /store/category/bedding/bedding-accessories/bed-skirts/12020
+ - https://www.bedbathandbeyond.com/store/category/bedding/10001
+ - /store/category/bedding/bedding-accessories/10505
+ - /store/category/bedding/bedding-collections/16434
+ - /store/category/bedding/blankets-throws/15553
+ - /store/category/bedding/bedding-accessories/canopies/12021
+ - /store/category/bedding/comforter-sets/15502
+ - /store/category/bedding/down-down-alternative-comforters/16073
+ - /store/category/bedding/duvet-covers/15507
+ - /store/category/bedding/blankets-throws/electric-blankets-throws/15556
+ - /store/category/bedding/sheets/fitted-sheets/15402
+ - /store/category/bedding/sheets-pillowcases/flannel-sheets/15404
+ - /store/category/bedding/sheets/flat-sheets/15489
+ - /store/category/bedding/kids-bedding/15097
+ - /store/category/bedding/mattress-pads-toppers/mattress-pads/16070
+ - /store/category/bedding/protectors/mattress-protectors/16075
+ - /store/category/bedding/mattress-pads-toppers/mattress-toppers/16071
+ - /store/category/bedding/protective-covers/pillow-protectors/16076
+ - /store/category/bedding/sheets-pillowcases/pillowcases/15410
+ - /store/category/bedding/pillows/16064
+ - /store/category/bedding/quilts/15511
+ - /store/category/bedding/bedding-accessories/shams/12023
+ - /store/category/bedding/sheets/sheet-sets/15415
+ - /store/category/bedding/sheets-pillowcases/15401
+ - /store/category/bedding/10001
+ - /store/category/bedding/pillows/support-pillows/16068
+ - /store/category/bedding/blankets-throws/weighted-blankets-accessories/15732
+ - /store/category/bedding/kids-bedding/15097
+ - /store/category/bedding/10001?icid=flyout_categories_bedding
+ - /store/category/bedding/bedding-basics/16392?icid=flyout_categories_bedding_basics
+ - /store/category/bedding/comforter-sets/15502?icid=flyout_categories_bedding_comforterset
+ - /store/category/bedding/pillows/16064?icid=flyout_categories_bedding_pillows
+ - /store/category/bedding/sheets-pillowcases/15401?icid=flyout_categories_bedding_pillowcase
+Category: home-decor
+ - /store/category/home-decor/decorative-accessories/throw-blankets/12161
+ - /store/category/home-decor/decorative-accessories/throw-pillows/12162
+ - /store/category/home-decor/holiday-decor/party-supplies/15333
+ - /store/category/home-decor/decorative-accessories/led-decor/12777
+ - /store/category/home-decor/rugs-door-mats/area-rugs/12193
+ - /store/category/home-decor/artificial-flowers-plants/16621
+ - /store/category/home-decor/throw-pillows-blankets/backrest-pillows/16632
+ - /store/category/home-decor/candles-fragrance/candle-holders/12146
+ - /store/category/home-decor/candles-fragrance/candles/12147
+ - /store/category/home-decor/candles-fragrance/10540
+ - /store/category/home-decor/lighting/ceiling-fans/12187
+ - /store/category/home-decor/clocks/10541
+ - /store/category/home-decor/frames-albums/collage-gallery-frames/12172
+ - /store/category/home-decor/decorative-accessories/10543
+ - /store/category/home-decor/decorative-accessories/decorative-baskets-boxes/16620
+ - /store/category/home-decor/wall-decor/decorative-shelving/12194
+ - /store/category/home-decor/artificial-flowers-plants/decorative-trees/16624
+ - /store/category/home-decor/rugs-door-mats/door-mats/12191
+ - /store/category/home-decor/candles-fragrance/flameless-candles/12628
+ - /store/category/home-decor/lighting/floor-lamps/16008
+ - /store/category/home-decor/mirrors/floor-mirrors/13782
+ - /store/category/home-decor/artificial-flowers-plants/floral-arrangements-centerpieces/16623
+ - /store/category/home-decor/frames-albums/10545
+ - /store/category/home-decor/candles-fragrance/home-fragrance/14342
+ - /store/category/home-decor/rugs-door-mats/kitchen-rugs-mats/15392
+ - /store/category/home-decor/lighting/10548
+ - /store/category/home-decor/wall-decor/metal-wall-decor/14273
+ - /store/category/home-decor/mirrors/13779
+ - /store/category/home-decor/lighting/novelty-lighting/12641
+ - /store/category/home-decor/mirrors/over-the-door-mirrors/13781
+ - /store/category/home-decor/lighting/reading-desk-lamps/14211
+ - /store/category/home-decor/rugs-door-mats/rug-pads-accessories/12639
+ - /store/category/home-decor/10004
+ - /store/category/home-decor/lighting/table-lamps/12189
+ - /store/category/home-decor/frames-albums/tabletop-frames/14533
+ - /store/category/home-decor/throw-pillows-blankets/throw-blankets/16630
+ - /store/category/home-decor/throw-pillows-blankets/throw-pillows/16629
+ - /store/category/home-decor/throw-pillows-blankets/16628
+ - /store/category/home-decor/rugs-door-mats/throw-rugs/12638
+ - /store/category/home-decor/decorative-accessories/vases-planters-jars/16617
+ - /store/category/home-decor/wall-art/14285
+ - /store/category/home-decor/wall-decor/10550
+ - /store/category/home-decor/frames-albums/wall-frames/13163
+ - /store/category/home-decor/mirrors/wall-mirrors/13780
+ - /store/category/home-decor/wall-decor/wreaths/16488
+ - /store/category/home-decor/candles-fragrance/10540?icid=flyout_categories_homedecor_candles
+ - /store/category/home-decor/10004?icid=flyout_categories_homedecor
+ - /store/category/home-decor/lighting/10548?icid=flyout_categories_homedecor_lights
+ - /store/category/home-decor/throw-pillows-blankets/16628?icid=flyout_categories_homedecor_throw
+Category: bath
+ - /store/category/bath/bathroom-accessories/13437
+ - /store/category/bath/bath-furniture/13452
+ - /store/category/bath/bathroom-hardware/13456
+ - /store/category/bath/bath-towels-rugs/13433
+ - /store/category/bath/bathroom-mirrors-lighting/14124
+ - /store/category/bath/bath-towels-rugs/bathrobes-slippers/15027
+ - /store/category/bath/bath-towels-rugs/bath-rug-sets/16758
+ - /store/category/bath/bath-towels-rugs/bath-rugs/13435
+ - /store/category/bath/bath-towels-rugs/bath-towel-sets/15913
+ - /store/category/bath/bath-towels-rugs/bath-towels/13434
+ - /store/category/bath/bathroom-accessories/bathroom-accessory-sets/13438
+ - /store/category/bath/bath-furniture/bathroom-seating/14856
+ - /store/category/bath/bath-furniture/bathroom-shelving/13454
+ - /store/category/bath/bathroom-storage/13446
+ - /store/category/bath/bathroom-mirrors-lighting/bathroom-wall-mirrors/14126
+ - /store/category/bath/bathroom-hardware/cabinet-knobs-pulls/13461
+ - /store/category/bath/bathroom-storage/cabinet-organization/15307
+ - /store/category/bath/bathroom-mirrors-lighting/ceiling-lighting/15314
+ - /store/category/bath/bathroom-storage/countertop-organization/15305
+ - /store/category/bath/bathroom-storage/floor-cabinets/15308
+ - /store/category/bath/bathroom-accessories/guest-towels/13443
+ - /store/category/bath/bathroom-mirrors-lighting/makeup-mirrors/14125
+ - /store/category/bath/bath-furniture/makeup-vanity/13455
+ - /store/category/bath/bathroom-mirrors-lighting/medicine-cabinets/14127
+ - /store/category/bath/bath-furniture/over-the-toilet-storage/15918
+ - /store/category/bath/bathroom-hardware/robe-towel-hooks/15031
+ - /store/category/bath/bathroom-accessories/scales/13444
+ - /store/category/bath/13432
+ - /store/category/bath/shower/13474
+ - /store/category/bath/shower/shower-bath-caddies/14128
+ - /store/category/bath/shower/shower-tub-mats/13479
+ - /store/category/bath/shower/shower-curtains/13475
+ - /store/category/bath/shower/shower-heads/13481
+ - /store/category/bath/shower/shower-hooks-rods/13477
+ - /store/category/bath/shower/shower-curtain-liners/13478
+ - /store/category/bath/bathroom-accessories/soap-lotion-dispensers/13442
+ - /store/category/bath/bathroom-accessories/toilet-seats-accessories/16134/_toilet-paper-holder/c19mX2JpblByb2R1Y3RfVHlwZToiVG9pbGV0IFBhcGVyIEhvbGRlciI=
+ - /store/category/bath/bathroom-accessories/toilet-seats-accessories/16134
+ - /store/category/bath/bathroom-accessories/toothbrush-holders/15028
+ - /store/category/bath/bathroom-hardware/towel-bars/15029
+ - /store/category/bath/bathroom-storage/towel-racks/13451
+ - /store/category/bath/bathroom-fixtures/towel-rings/15030
+ - /store/category/bath/bathroom-hardware/towel-warmers/15315
+ - /store/category/bath/bathroom-mirrors-lighting/vanity-lighting/15313
+ - /store/category/bath/bathroom-storage/wall-cabinets/15309
+ - /store/category/bath/bathroom-accessories/wastebaskets/15037
+ - /store/category/bath/bathroom-mirrors-lighting/bathroom-wall-mirrors/14126
+ - /store/category/bath/13432?icid=flyout_categories_bath
+ - /store/category/bath/bath-towels-rugs/13433?icid=flyout_categories_bath_rug
+ - /store/category/bath/bathroom-accessories/13437?icid=flyout_categories_bath_accessories
+ - /store/category/bath/bathroom-hardware/13456?icid=flyout_categories_bath_hardware
+ - /store/category/bath/shower/13474?icid=flyout_categories_bath_shower
+Category: storage-cleaning
+ - /store/category/storage-cleaning/storage-ideas/bath-storage-ideas/16762?icid=L3_bath_flyout_bath_storage_ideas
+ - /store/category/storage-cleaning/storage-ideas/kitchen-storage-ideas/16761?icid=US_Flyout_Kitchen_3
+ - /store/category/storage-cleaning/bath-organization/16169
+ - /store/category/storage-cleaning/cleaning/brooms-mops-dusters/12204
+ - /store/category/storage-cleaning/cleaning/brushes-sponges-cloths/12205
+ - /store/category/storage-cleaning/vacuums-floor-care/canister-vacuums/12239
+ - /store/category/storage-cleaning/cleaning/10554
+ - /store/category/storage-cleaning/closet-storage/10619
+ - /store/category/storage-cleaning/closet-storage/clothing-storage/12209
+ - /store/category/storage-cleaning/cleaning/dish-handsoap/14550
+ - /store/category/storage-cleaning/storage-organization/drawers-carts/12642
+ - /store/category/storage-cleaning/laundry/drying-racks/12221
+ - /store/category/storage-cleaning/office-organization/filing-cabinets/15501
+ - /store/category/storage-cleaning/garage-storage/10608
+ - /store/category/storage-cleaning/laundry/garment-steamers/14168
+ - /store/category/storage-cleaning/laundry/hampers-sorters/12647
+ - /store/category/storage-cleaning/vacuums-floor-care/handheld-vacuums/12760
+ - /store/category/storage-cleaning/closet-storage/hangers/12210
+ - /store/category/storage-cleaning/closet-storage/hooks/14170
+ - /store/category/storage-cleaning/laundry/irons/12223
+ - /store/category/storage-cleaning/jewelry-boxes-storage/10557
+ - /store/category/storage-cleaning/cleaning/kitchen-cleaners/14552
+ - /store/category/storage-cleaning/laundry/10559
+ - /store/category/storage-cleaning/cleaning/odor-eliminators/14548
+ - /store/category/storage-cleaning/office-organization/office-school-supplies/14345
+ - /store/category/storage-cleaning/office-organization/office-accessories/12653
+ - /store/category/storage-cleaning/office-organization/10607
+ - /store/category/storage-cleaning/storage-organization/over-the-door-organizers/13775
+ - /store/category/storage-cleaning/vacuums-floor-care/pet-hair-vacuums/16612
+ - /store/category/storage-cleaning/vacuums-floor-care/robotic-vacuums/12240
+ - /store/category/storage-cleaning/storage-organization/shelving/14246
+ - /store/category/storage-cleaning/closet-storage/shoe-racks-storage/12213
+ - /store/category/storage-cleaning/10005
+ - /store/category/storage-cleaning/vacuums-floor-care/stick-vacuums/12243
+ - /store/category/storage-cleaning/storage-organization/storage-bags/12644
+ - /store/category/storage-cleaning/storage-organization/storage-bins-baskets/12208
+ - /store/category/storage-cleaning/storage-organization/10555
+ - /store/category/storage-cleaning/storage-organization/storage-units/12212
+ - /store/category/storage-cleaning/storage-organization/underbed-storage/14308
+ - /store/category/storage-cleaning/vacuums-floor-care/upright-vacuums/12244
+ - /store/category/storage-cleaning/vacuums-floor-care/10562
+ - /store/category/storage-cleaning/closet-storage/10619?icid=flyout_categories_storage_closet
+ - /store/category/storage-cleaning/laundry/10559?icid=flyout_categories_storage_laundry
+ - /store/category/storage-cleaning/10005?icid=flyout_categories_storage
+ - /store/category/storage-cleaning/storage-organization/10555?icid=flyout_categories_storage_solutions
+ - /store/category/storage-cleaning/vacuums-floor-care/10562?icid=flyout_categories_storage_vacuums
+Category: kitchen
+ - /store/category/kitchen/featured-shops/trending-now/16085?icid=flyout_us_trending
+ - /store/category/kitchen/small-appliances/air-fryers-deep-fryers/13631
+ - /store/category/kitchen/bakeware-baking-tools/10514
+ - /store/category/kitchen/bakeware-baking-tools/bakeware-sets/12044
+ - /store/category/kitchen/bakeware-baking-tools/baking-cookie-sheets/12046
+ - /store/category/kitchen/bakeware-baking-tools/baking-dishes/12597
+ - /store/category/kitchen/small-appliances/blenders/13138
+ - /store/category/kitchen/kitchen-organization/cabinet-organizers/12100
+ - /store/category/kitchen/food-storage/canisters/12605
+ - /store/category/kitchen/food-storage/canning/13158
+ - /store/category/kitchen/coffee-tea/coffee/12052
+ - /store/category/kitchen/coffee-tea/single-serve-coffee-makers/10515
+ - /store/category/kitchen/coffee-tea/coffee-makers/12053
+ - /store/category/kitchen/featured-shops/colorful-kitchen/16643?icid=flyout_us_colorful_kitchen
+ - /store/category/kitchen/kitchen-tools-gadgets/cooking-utensils/12107
+ - /store/category/kitchen/cookware/10518
+ - /store/category/kitchen/cookware/cookware-sets/12063
+ - /store/category/kitchen/kitchen-organization/counter-organizers/12096
+ - /store/category/kitchen/knives-cutlery/10519?icid=US_L2_kitchen_flyout_Cutlery_Knives
+ - /store/category/kitchen/knives-cutlery/cutting-boards/12070?icid=US_L3_kitchen_flyout_Cutting_Boards
+ - /store/category/kitchen/kitchen-organization/drawer-organizers/14178
+ - /store/category/kitchen/cookware/dutch-ovens-braisers/12594
+ - /store/category/kitchen/coffee-tea/espresso-machines/12054
+ - /store/category/kitchen/featured-shops/13120?icid=flyout_kitchen_col_4_4
+ - /store/category/kitchen/small-appliances/food-processors/12076
+ - /store/category/kitchen/food-storage/10602
+ - /store/category/kitchen/food-storage/food-storage-containers/12606
+ - /store/category/kitchen/kitchen-tools-gadgets/fruit-vegetable-tools/14609
+ - /store/category/kitchen/cookware/frying-pans-skillets/12590
+ - /store/category/kitchen/small-appliances/ice-cream-makers/13633?icid=L3_kitchen_flyout_ice_cream_makers
+ - /store/category/kitchen/small-appliances/juicers/12075?icid=glb_global_fly_L3_link_kitchenjuicers
+ - /store/category/kitchen/kitchen-tools-gadgets/10617
+ - /store/category/kitchen/kitchen-ns/10522
+ - /store/category/kitchen/kitchen-organization/10524
+ - /store/category/kitchen/knives-cutlery/knife-sets/12069?icid=US_L3_kitchen_flyout_Knife_Sets
+ - /store/category/kitchen/kitchen-tools-gadgets/measuring-tools/12105
+ - /store/category/kitchen/small-appliances/mixers-attachments/12078
+ - /store/category/kitchen/kitchen-tools-gadgets/mixing-bowls/12103
+ - /store/category/kitchen/small-appliances/panini-presses-indoor-grills/14303
+ - /store/category/kitchen/kitchen-organization/pantry-organization/16529
+ - /store/category/kitchen/cookware/pressure-cookers/14717
+ - /store/category/kitchen/cookware/roasters/12595
+ - /store/category/kitchen/cookware/saucepans-sauciers/12592
+ - /store/category/kitchen/10002
+ - /store/category/kitchen/coffee-tea/single-serve-coffee-makers/12855
+ - /store/category/kitchen/sink-organization/14565?icid=US_Flyout_Kitchen_sink_organization
+ - /store/category/kitchen/small-appliances/slow-cookers-multi-cookers/12715
+ - /store/category/kitchen/small-appliances/10517
+ - /store/category/kitchen/kitchen-tools-gadgets/specialized-kitchen-tools/12084
+ - /store/category/kitchen/knives-cutlery/steak-knives/12758?icid=US_L3_kitchen_flyout_Steak_Knives
+ - /store/category/kitchen/small-appliances/toasters-ovens/12061
+ - /store/category/kitchen/trash-recycling/14367
+ - /store/category/kitchen/water-filters/10530
+ - /store/category/kitchen/kitchen-organization/cabinet-organizers/12100
+ - /store/category/kitchen/kitchen-organization/counter-organizers/12096
+ - /store/category/kitchen/kitchen-organization/drawer-organizers/14178
+ - /store/category/kitchen/food-storage/10602
+ - /store/category/kitchen/kitchen-organization/10524
+ - /store/category/kitchen/sink-organization/14565
+ - /store/category/kitchen/trash-recycling/14367
+ - /store/category/kitchen/trash-recycling/trash-bags-liners/14371
+ - /store/category/kitchen/trash-recycling/trash-cans/14368
+ - /store/category/kitchen/coffee-tea/single-serve-coffee-makers/10515?icid=flyout_categories_kitchen_coffeetea
+ - /store/category/kitchen/cookware/10518?icid=flyout_categories_kitchen_cookware
+ - /store/category/kitchen/10002?icid=flyout_categories_kitchen
+ - /store/category/kitchen/kitchen-tools-gadgets/10617?icid=flyout_categories_kitchen_tools
+ - /store/category/kitchen/small-appliances/10517?icid=flyout_categories_kitchen_smallappliance
+Category: more
+ - /store/category/more/food-drink/12749
+ - /store/category/more/toys-games/outdoor-games/14693
+ - /store/category/more/book-shop/16782
+ - /store/category/more/audio-electronics/10581
+ - /store/category/more/featured-shops/13410
+ - /store/category/more/food-drink/12749
+ - /store/category/more/luggage/10580
+ - /store/category/more/food-drink/seasonal-holiday-foods/14454
+ - /store/category/more/10007
+ - /store/category/more/toys-games/14688
+ - /store/category/more/featured-shops/travel-must-haves/16652
+ - /store/category/more/wedding/10593
+ - /store/category/more/wedding/10593?icid=_reg_loggedout_wedding_gifts
+ - /store/category/more/luggage/10580?icid=flyout_categories_luggage
+ - /store/category/more/10007?icid=flyout_categories_luggagepetmore
+ - /store/category/more/wedding/10593?icid=_reg_loggedout_wedding_gifts
+Category: dining
+ - /store/category/dining/serveware/appetizer-servers/12618
+ - /store/category/dining/wine-bar-essentials/bar-tools-accessories/15470
+ - /store/category/dining/glasses-drinkware/beer-glasses/15468
+ - /store/category/dining/dinnerware/bowls/14744
+ - /store/category/dining/serveware/cake-dessert-servers/12135
+ - /store/category/dining/table-ns/chair-pads-and-covers/12137
+ - /store/category/dining/glasses-drinkware/champagne-glasses-flutes/15467
+ - /store/category/dining/dinnerware/charger-plates/13014
+ - /store/category/dining/serveware/cheese-boards-cheese-knives/15575
+ - /store/category/dining/glasses-drinkware/cocktail-glasses/15469
+ - /store/category/dining/glasses-drinkware/coffee-mugs/12766
+ - /store/category/dining/wine-bar-essentials/decanters-carafes/12934
+ - /store/category/dining/dinnerware/10532
+ - /store/category/dining/dinnerware/dinnerware-sets/13027
+ - /store/category/dining/glasses-drinkware/drinking-glasses/12125
+ - /store/category/dining/glasses-drinkware/10533
+ - /store/category/dining/flatware/10534
+ - /store/category/dining/flatware/flatware-chests-storage/12127
+ - /store/category/dining/flatware/flatware-sets/12128
+ - /store/category/dining/wine-bar-essentials/ice-buckets-chillers/15472
+ - /store/category/dining/glasses-drinkware/insulated-drinkware/12763
+ - /store/category/dining/table-linens/napkin-rings/12139
+ - /store/category/dining/table-linens/napkins/14638
+ - /store/category/dining/flatware/open-stock-flatware/12617
+ - /store/category/dining/glasses-drinkware/pitchers/14237
+ - /store/category/dining/flatware/place-settings/12129
+ - /store/category/dining/table-linens/placemats/12140
+ - /store/category/dining/dinnerware/plates/13026
+ - /store/category/dining/serveware/platters-trays/12134
+ - /store/category/dining/serveware/salad-bowls-servers/12133
+ - /store/category/dining/serveware/10535
+ - /store/category/dining/serveware/serving-accessories/12619
+ - /store/category/dining/serveware/serving-bowls-baskets/12132
+ - /store/category/dining/flatware/serving-sets/12616
+ - /store/category/dining/serveware/serving-utensils/13013
+ - /store/category/dining/10003
+ - /store/category/dining/featured-shops/spring-entertaining/16594?icid=flyout_dining_sale_spring_entertaining
+ - /store/category/dining/table-linens/10536
+ - /store/category/dining/table-linens/table-runners/12141
+ - /store/category/dining/table-linens/tablecloths/12142
+ - /store/category/dining/wine-bar-essentials/12929
+ - /store/category/dining/glasses-drinkware/wine-glasses/12126
+ - /store/category/dining/wine-bar-essentials/wine-tools-accessories/15471
+ - /store/category/dining/dinnerware/dining-storage-stands/13030
+ - /store/category/dining/10003?icid=flyout_categories_dining
+ - /store/category/dining/dinnerware/10532?icid=flyout_categories_dining_dinnerware
+ - /store/category/dining/glasses-drinkware/10533?icid=flyout_categories_dining_drinkware
+ - /store/category/dining/flatware/10534?icid=flyout_categories_dining_flatware
+ - /store/category/dining/table-linens/10536?icid=flyout_categories_dining_tablelinen
+Category: outdoor
+ - /store/category/outdoor/outdoor-dining-entertaining/outdoor-dinnerware-serveware/12680
+ - /store/category/outdoor/outdoor-dining-entertaining/outdoor-drinkware/16225
+ - /store/category/outdoor/outdoor-dining-entertaining/outdoor-table-linens/12681?icid=flyout_dining_sale_outdoor_table_linens
+ - /store/category/outdoor/beach-pool/10591
+ - /store/category/outdoor/camping/15858
+ - /store/category/outdoor/patio-furniture/chaise-lounges/13269
+ - /store/category/outdoor/outdoor-dining-entertaining/coolers-carts/12442
+ - /store/category/outdoor/outdoor-decor/decorative-landscape-lighting/13274
+ - /store/category/outdoor/outdoor-decor/door-mats/15564
+ - /store/category/outdoor/fire-pits-outdoor-heating/15568
+ - /store/category/outdoor/outdoor-decor/garden-decor/15563
+ - /store/category/outdoor/patio-umbrellas-shades/gazebos-canopies/12463
+ - /store/category/outdoor/grills-outdoor-cooking/grill-tools-accessories/12301
+ - /store/category/outdoor/grills-outdoor-cooking/10573
+ - /store/category/outdoor/lawn-garden/10577
+ - /store/category/outdoor/mosquito-pest-control/14234
+ - /store/category/outdoor/patio-furniture/outdoor-bistro-small-space-furniture/13267
+ - /store/category/outdoor/grills-outdoor-cooking/outdoor-cookware/12297
+ - /store/category/outdoor/patio-accessories/outdoor-cushions/12675
+ - /store/category/outdoor/outdoor-dining-entertaining/10584
+ - /store/category/outdoor/outdoor-dining-entertaining/outdoor-dinnerware-serveware/12680
+ - /store/category/outdoor/outdoor-dining-entertaining/outdoor-drinkware/16225
+ - /store/category/outdoor/outdoor-decor/13273
+ - /store/category/outdoor/patio-accessories/patio-furniture-covers/12335
+ - /store/category/outdoor/grills-outdoor-cooking/grills-smokers/12299
+ - /store/category/outdoor/outdoor-decor/outdoor-lighting/14561
+ - /store/category/outdoor/patio-accessories/outdoor-pillows/15561
+ - /store/category/outdoor/patio-furniture/outdoor-sofas-loveseats/13270
+ - /store/category/outdoor/patio-accessories/outdoor-storage/15562
+ - /store/category/outdoor/outdoor-dining-entertaining/outdoor-table-ns/12681
+ - /store/category/outdoor/patio-accessories/10611
+ - /store/category/outdoor/patio-furniture/patio-chairs-benches/13268
+ - /store/category/outdoor/patio-furniture/patio-conversation-sets/12334
+ - /store/category/outdoor/patio-furniture/patio-dining-sets/13266
+ - /store/category/outdoor/patio-furniture/10582
+ - /store/category/outdoor/patio-furniture/patio-tables/13271
+ - /store/category/outdoor/patio-umbrellas-shades/patio-umbrella-bases/15842
+ - /store/category/outdoor/patio-umbrellas-shades/patio-umbrellas/12462
+ - /store/category/outdoor/patio-umbrellas-shade/10596
+ - /store/category/outdoor/10018
+ - /store/category/outdoor/10018?icid=flyout_categories_outdoor
+ - /store/category/outdoor/outdoor-decor/13273?icid=flyout_categories_outdoor_decor
+ - /store/category/outdoor/patio-accessories/10611?icid=flyout_categories_outdoor_accessories
+ - /store/category/outdoor/patio-furniture/10582?icid=flyout_categories_outdoor_patiofurniture
+ - /store/category/outdoor/patio-umbrellas-shade/10596?icid=flyout_categories_outdoor_patioshades
+Category: health-beauty
+ - /store/category/health-beauty/health-wellness/aromatherapy/14380
+ - /store/category/health-beauty/skin-care/acne-care/14518
+ - /store/category/health-beauty/bath-body/16693
+ - /store/category/health-beauty/mens-grooming/beard-care/14644
+ - /store/category/health-beauty/beauty/16654
+ - /store/category/health-beauty/skin-care/body-wash-soap/13761
+ - /store/category/health-beauty/ear-eye-care/16706
+ - /store/category/health-beauty/mens-grooming/electric-groomers-shavers/16675
+ - /store/category/health-beauty/oral-care/electric-toothbrushes/15005
+ - /store/category/health-beauty/skin-care/face-cleansers-makeup-removers/13758
+ - /store/category/health-beauty/skin-care/face-moisturizers-creams/13759
+ - /store/category/health-beauty/first-aid/16720
+ - /store/category/health-beauty/fitness-wellness/13565
+ - /store/category/health-beauty/hair-care/hair-accessories/13751
+ - /store/category/health-beauty/hair-care/hair-brushes/13750
+ - /store/category/health-beauty/hair-care/13748
+ - /store/category/health-beauty/hair-care/hair-color/14515
+ - /store/category/health-beauty/hair-care/hair-dryers/13749
+ - /store/category/health-beauty/hair-care/hair-styling-products/14514
+ - /store/category/health-beauty/hair-care/hair-styling-tools/14171
+ - /store/category/health-beauty/hair-care/hair-treatments/13753
+ - /store/category/health-beauty/health-wellness/16709
+ - /store/category/health-beauty/hair-care/kids-hair-care/16660
+ - /store/category/health-beauty/skin-care/lip-care/16663
+ - /store/category/health-beauty/makeup-mirrors-organizers/makeup-brushes-tools/16200
+ - /store/category/health-beauty/makeup-mirrors-organizers/makeup-mirrors/16198
+ - /store/category/health-beauty/makeup-mirrors-organizers/16197
+ - /store/category/health-beauty/makeup-mirrors-organizers/makeup-organizers-storage/16199
+ - /store/category/health-beauty/massage-spa-sleep/massage/13576
+ - /store/category/health-beauty/massage-spa-sleep/13575
+ - /store/category/health-beauty/medicine/16727
+ - /store/category/health-beauty/mens-grooming/13586
+ - /store/category/health-beauty/mens-grooming/mens-shaving/13588
+ - /store/category/health-beauty/oral-care/mouthwash/15010
+ - /store/category/health-beauty/oral-care/15004
+ - /store/category/health-beauty/personal-care/13579
+ - /store/category/health-beauty/skin-care/serums-treatments/16661
+ - /store/category/health-beauty/hair-care/shampoo-conditioner/13752
+ - /store/category/health-beauty/shaving-hair-removal/16677
+ - /store/category/health-beauty/13493
+ - /store/category/health-beauty/skin-care/13757
+ - /store/category/health-beauty/massage-spa-sleep/sound-machines/13578
+ - /store/category/health-beauty/massage-spa-sleep/spa/13577
+ - /store/category/health-beauty/skin-care/sun-care/13762
+ - /store/category/health-beauty/oral-care/teeth-whitening/15008
+ - /store/category/health-beauty/oral-care/toothpaste/15009
+ - /store/category/health-beauty/mens-grooming/trimmers-clippers/13587
+ - /store/category/health-beauty/vitamins-supplements/13766
+ - /store/category/health-beauty/oral-care/water-flossers-floss/15007
+ - /store/category/health-beauty/hair-care/13748?icid=flyout_categories_health_haircare
+ - /store/category/health-beauty/13493?icid=flyout_categories_health
+ - /store/category/health-beauty/massage-spa-sleep/13575?icid=flyout_categories_health_spa
+ - /store/category/health-beauty/oral-care/15004?icid=flyout_categories_health_oral
+ - /store/category/health-beauty/skin-care/13757?icid=flyout_categories_health_skin
+Category: curtains-window
+ - /store/category/curtains-window/curtain-panels/blackout-curtains/16230
+ - /store/category/curtains-window/curtain-panels/16229
+ - /store/category/curtains-window/curtain-rods-hardware/curtain-rings/15601
+ - /store/category/curtains-window/curtain-rods-hardware/curtain-rods/15596
+ - /store/category/curtains-window/curtain-rods-hardware/15595
+ - /store/category/curtains-window/curtain-rods-hardware/finials/15602
+ - /store/category/curtains-window/curtain-rods-hardware/hardware-accessories/16234
+ - /store/category/curtains-window/curtain-panels/light-filtering-curtains/16231
+ - /store/category/curtains-window/curtain-panels/room-darkening-curtains/16232
+ - /store/category/curtains-window/curtain-panels/sheer-curtains/16233
+ - /store/category/curtains-window/15588
+ - /store/category/curtains-window/curtain-rods-hardware/tie-backs-holdbacks/15600
+ - /store/category/curtains-window/curtain-panels/valances-scarves/16328
+ - /store/category/curtains-window/blinds-shades/blinds/15590
+ - /store/category/curtains-window/blinds-shades/shades/15591
+ - /store/category/curtains-window/curtain-panels/16229?icid=flyout_categories_curtains_panels
+ - /store/category/curtains-window/15588?icid=flyout_categories_curtains
+ - /store/category/curtains-window/curtain-rods-hardware/15595?icid=flyout_categories_curtains_rods
+ - /store/category/curtains-window/blinds-shades/blinds/15590?icid=flyout_categories_curtains_blinds
+ - /store/category/curtains-window/blinds-shades/shades/15591?icid=flyout_categories_curtains_shades
+Category: smart-home-home-improvement
+ - /store/category/smart-home-home-improvement/heating-cooling/14943
+ - /store/category/smart-home-home-improvement/safety-security/14907
+ - /store/category/smart-home-home-improvement/smart-home/14893
+ - /store/category/smart-home-home-improvement/heating-cooling/14943?icid=flyout_categories_heatingandcooling
+ - /store/category/smart-home-home-improvement/smart-home/14893?icid=flyout_categories_smarthome
+Category: pet-supplies
+ - /store/category/pet-supplies/16285
+ - /store/category/pet-supplies/16285?icid=flyout_categories_pet
+Category: gifts
+ - /store/category/gifts/gifts-by-interest/beauty-style-gifts/13862?icid=L1_gifts_caL1_ca3f_im_beautystyle_15471
+ - /store/category/gifts/gifts-by-interest/coffee-gifts/13858?icid=L1_gifts_caL1_ca3e_im_coffee_15471
+ - /store/category/gifts/gifts-by-interest/cooking-baking-gifts/13856?icid=L1_gifts_caL1_ca3c_im_cookingbaking_15471
+ - /store/category/gifts/gifts-by-interest/13853
+ - /store/category/gifts/gifts-by-recipient/16276
+ - /store/category/gifts/gifts-by-recipient/gifts-for-her/16277
+ - /store/category/gifts/gifts-by-recipient/gifts-for-him/16278
+ - /store/category/gifts/gifts-by-recipient/gifts-for-kids/16279
+ - /store/category/gifts/gifts-by-recipients/gifts-for-pets/16775
+ - /store/category/gifts/gifts-by-occasion/graduation-gifts/15054
+ - /store/category/gifts/13806
+ - /store/category/gifts/gifts-by-interest/tech-gifts/13859
+ - /store/category/gifts/gifts-by-recipient/top-gifts/16280
+ - /store/category/gifts/gifts-by-interest/vacuum-gifts/16468
+ - /store/category/gifts/gifts-by-interest/wine-beer-cocktail-gifts/15673
+Category: registry-favorites
+ - /store/category/registry-favorites/16533?icid=us_gifts_registry_fav
+ - /store/category/registry-favorites/16533?icid=US_reg_loggedout_registry_favorites
+ - /store/category/registry-favorites/16533?icid=US_reg_loggedout_registry_favorites
+Category: personalized-gifts
+ - /store/category/personalized-gifts/personalized-wedding-gifts/14019?icid=_reg_loggedout_personalized_gifts
+ - /store/category/personalized-gifts/personalized-wedding-gifts/14019?icid=_reg_loggedout_personalized_gifts
+Category: baby-kids
+ - /store/category/baby-kids/gear-travel/activity/12245
+ - /store/category/baby-kids/baby-kids-clothing/10567
+ - /store/category/baby-kids/baby-nursery/baby-bedding/12258
+ - /store/category/baby-kids/gear-travel/baby-carriers/12247
+ - /store/category/baby-kids/baby-nursery/baby-furniture/12259
+ - /store/category/baby-kids/health-safety/baby-gates/12982
+ - /store/category/baby-kids/baby-nursery/10565
+ - /store/category/baby-kids/baby-gifts/baby-registry-favorites/14113
+ - /store/category/baby-kids/nursing-feeding/baby-food-prep/12280
+ - /store/category/baby-kids/bath-diapering/10566
+ - /store/category/baby-kids/car-seats/booster-car-seats/12973
+ - /store/category/baby-kids/nursing-feeding/bottle-feeding/12282
+ - /store/category/baby-kids/car-seats/car-seat-bases/12974
+ - /store/category/baby-kids/car-seats/12970
+ - /store/category/baby-kids/health-safety/childproofing/12276
+ - /store/category/baby-kids/gear-travel/cold-weather-accessories/12246
+ - /store/category/baby-kids/car-seats/convertible-car-seats/12972
+ - /store/category/baby-kids/gear-travel/diaper-bags/12248
+ - /store/category/baby-kids/bath-diapering/diapering/12263
+ - /store/category/baby-kids/strollers/double-triple/12967
+ - /store/category/baby-kids/strollers/full-size-strollers/12964
+ - /store/category/baby-kids/gear-travel/10563
+ - /store/category/baby-kids/health-safety/10569
+ - /store/category/baby-kids/health-safety/health-wellness/12277
+ - /store/category/baby-kids/nursing-feeding/high-chairs/12283
+ - /store/category/baby-kids/car-seats/infant-car-seats/12971
+ - /store/category/baby-kids/infant-toys-ages-0-3-years/10572
+ - /store/category/baby-kids/strollers/jogging-strollers/12966
+ - /store/category/baby-kids/kids-toys/12984
+ - /store/category/baby-kids/health-safety/baby-monitors/12983
+ - /store/category/baby-kids/nursery-decor/12976
+ - /store/category/baby-kids/nursing-feeding/nursing/12284
+ - /store/category/baby-kids/nursing-feeding/10570
+ - /store/category/baby-kids/gear-travel/playards-portable-beds/12739
+ - /store/category/baby-kids/bath-diapering/potty-training/12264
+ - /store/category/baby-kids/shoes-accessories/12991
+ - /store/category/baby-kids/10006
+ - /store/category/baby-kids/baby-gifts/smart-innovations/14114
+ - /store/category/baby-kids/strollers/12961
+ - /store/category/baby-kids/strollers/travel-systems/12965
+ - /store/category/baby-kids/bath-diapering/tubs-seats/12981
+ - /store/category/baby-kids/strollers/umbrella-strollers/12963
+ - /store/category/baby-kids/10006?icid=flyout_categories_babykids
+ - /store/category/baby-kids/baby-nursery/10565?icid=flyout_categories_babykids_nursery
+ - /store/category/baby-kids/car-seats/12970?icid=flyout_categories_babykids_carseat
+ - /store/category/baby-kids/nursing-feeding/10570?icid=flyout_categories_babykids_nursing
+ - /store/category/baby-kids/strollers/12961?icid=flyout_categories_babykids_strollers
+
