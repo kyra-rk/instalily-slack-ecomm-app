@@ -14,7 +14,8 @@ chrome_options.add_argument("--headless")
 # get the target site
 # https://scrapingclub.com/
 # https://www.bedbathandbeyond.com/store/category/outdoor/patio-umbrellas-shades/gazebos-canopies/12463
-url = 'https://www.homedepot.com/b/Electrical-Fire-Safety-Fire-Extinguishers/N-5yc1vZbmgp'
+# https://www.homedepot.com/b/Electrical-Fire-Safety-Fire-Extinguishers/N-5yc1vZbmgp
+url = 'https://www.homedepot.com/b/Bath-Bathtubs-Alcove-Bathtubs/N-5yc1vZcd0g'
 driver = webdriver.Chrome(
     options=chrome_options,
     service=Service(ChromeDriverManager().install())
@@ -27,12 +28,22 @@ products = []
 
 
 class Product:
-    def __init__(self, title, price):
+    def __init__(self, title, price, brand):
         self.title = title
         self.price = price
+        self.brand = brand
 
     def __str__(self):
-        return f"{self.title} ({self.price})"
+        return f"Name: {self.title}, Brand: {self.brand}, Price: {self.price}"
+
+    def get_name(self):
+        return self.title
+
+    def get_price(self):
+        return self.price
+
+    def get_brand(self):
+        return self.brand
 
 
 def find_products(class_value):
@@ -42,15 +53,23 @@ def find_products(class_value):
         soup = BeautifulSoup(html_source, 'html.parser')
         price = find_price(soup)
         title = find_title(soup)
-        p = Product(title, price)
+        brand = find_brand(soup)
+        p = Product(title, price, brand)
         products.append(p)
+
+
+def find_brand(soup):
+    if soup is not None:
+        x = soup.find(attrs={'class': 'product-header__title__brand--bold--4y7oa'})
+        brand_str = x.text
+        return brand_str
 
 
 def find_title(soup):
     if soup is not None:
         x = soup.find(attrs={'class': 'product-header__title-product--4y7oa'})
         title_str = x.text
-        #print(f'name: {title_str}')
+        # print(f'name: {title_str}')
         return title_str
 
 
@@ -60,7 +79,7 @@ def find_price(soup):
         price_str = x.text
         price_str = price_str[1:len(price_str):1]
         price_str = f'${int(price_str) / 100.0}'
-        #print(price_str)
+        # print(price_str)
         # print(x.prettify())
         return price_str
 
