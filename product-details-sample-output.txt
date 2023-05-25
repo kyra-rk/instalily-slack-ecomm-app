@@ -1,0 +1,15 @@
+output from running python3 webscraper.py with url: https://www.homedepot.com/b/Bath-Bathtubs-Alcove-Bathtubs/N-5yc1vZcd0g
+
+Name:  KOHLER Elmbrook 60 in. x 30.2 in. Soaking Bathtub with Left Drain in White, Brand:  KOHLER , Price: $469.0
+Name:  KOHLER Elmbrook 60 in. x 30.2 in. Soaking Bathtub with Right Drain in White, Brand:  KOHLER , Price: $469.0
+Name:  Bootz Industries Aloha 60 in. x 30 in. Soaking Bathtub with Right Drain in White, Brand:  Bootz Industries , Price: $229.0
+Name:  JACUZZI PROJECTA 60 in. L x 42 in. W Acrylic Left Drain Oval in Rectangle Alcove Bathtub in Oyster, Brand:  JACUZZI , Price: $859.0
+Name:  Delta Classic 500 60 in. Left Drain Rectangular Alcove Bathtub in High Gloss White, Brand:  Delta , Price: $339.0
+Name:  Bootz Industries Aloha 60 in. x 30 in. Soaking Bathtub with Left Drain in White, Brand:  Bootz Industries , Price: $229.0
+Name:  KOHLER Underscore 60 in. x 32 in. Soaking Bathtub with Left Drain in White, Brand:  KOHLER , Price: $1041.0
+Name:  American Standard EverClean 60 in. x 32 in. Whirlpool Bathtub with Left Drain in White, Brand:  American Standard , Price: $789.0
+Name:  KOHLER Underscore 60 in. x 30 in. Soaking Bathtub with Right Drain in White, Brand:  KOHLER , Price: $1026.0
+Name:  KOHLER Underscore 60 in. x 32 in. Soaking Bathtub with Right Drain in White, Brand:  KOHLER , Price: $1041.0
+Name:  Bootz Industries Maui 60 in. x 30 in. Soaking Bathtub with Right Drain in White, Brand:  Bootz Industries , Price: $319.0
+Name:  Sterling Store+ 60 in. x 30 in. Soaking Bathtub with Left Drain in White, Brand:  Sterling , Price: $369.0
+
